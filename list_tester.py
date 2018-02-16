@@ -23,4 +23,5 @@ def remove_first(list_to_check):
     else:
         print(item_to_check, "Is unique!")
 
-check_list(input("Input string to be tested: "))
+
+check_list(input("Input string to be tested: "))        #Get user input and check list
